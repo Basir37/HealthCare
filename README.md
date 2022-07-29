@@ -1,5 +1,5 @@
 
-Firebase Link [24hr Health Care Center] https://hr-health-care-center-f18b7.web.app/
+Firebase Link [24hr Health Care Center] 
 
 # Most key points from this assignment is ?
 Firebase
